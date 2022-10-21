@@ -1,0 +1,7 @@
+const PI = 3.14159 ;
+
+const sphereVolume = function () {
+  4/3 * PI * Math.pow(10, 3);
+  
+}
+console.log(sphereVolume)
